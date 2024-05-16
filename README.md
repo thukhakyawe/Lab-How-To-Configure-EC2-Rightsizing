@@ -60,7 +60,6 @@
 ---
 
 > [!CAUTION]
-
 > AWS recommends to take backups of EC2 before changing instance types and make sure to check with vendor to ensure compatibility and supportability before migrating your instances.
 
 > [!NOTE]

@@ -1,0 +1,1 @@
+# Lab-How-To-Configure-EC2-Rightsizing-
